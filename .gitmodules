@@ -3,3 +3,27 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "argonDash"]
+	path = argonDash
+	url = https://github.com/rinterface/argondash
+	shallow = true
+[submodule "argonR"]
+	path = argonR
+	url = https://github.com/rinterface/argonr
+	shallow = true
+[submodule "bs4Dash"]
+	path = bs4Dash
+	url = https://github.com/rinterface/bs4dash
+	shallow = true
+[submodule "shinydashboardPlus"]
+	path = shinydashboardPlus
+	url = https://github.com/rinterface/shinydashboardplus
+	shallow = true
+[submodule "shinyMobile"]
+	path = shinyMobile
+	url = https://github.com/rinterface/shinymobile
+	shallow = true
+[submodule "tablerDash"]
+	path = tablerDash
+	url = https://github.com/rinterface/tablerdash
+	shallow = true
