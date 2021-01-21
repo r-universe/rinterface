@@ -39,9 +39,9 @@
 	path = htmltools
 	url = https://github.com/rstudio/htmltools
 	shallow = true
-[submodule "promises"]
-	path = promises
-	url = https://github.com/rstudio/promises
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
 	shallow = true
 [submodule "sass"]
 	path = sass

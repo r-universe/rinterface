@@ -24,14 +24,8 @@
     "from": "bs4Dash"
   },
   {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bs4Dash", "shiny", "bslib"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "promises",
-    "url": "https://github.com/rstudio/promises",
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
     "via": ["bs4Dash", "shiny", "bslib"],
     "from": "bs4Dash"
   },
@@ -39,12 +33,6 @@
     "package": "sass",
     "url": "https://github.com/rstudio/sass",
     "via": ["bs4Dash", "shiny"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bs4Dash", "shiny", "bslib"],
     "from": "bs4Dash"
   },
   {
@@ -57,12 +45,6 @@
     "package": "shinytest",
     "url": "https://github.com/rstudio/shinytest",
     "via": ["bs4Dash", "shiny"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "thematic",
-    "url": "https://github.com/rstudio/thematic",
-    "via": ["bs4Dash", "shiny", "bslib"],
     "from": "bs4Dash"
   },
   {
