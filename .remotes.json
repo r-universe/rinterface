@@ -1,50 +1,14 @@
 [
   {
-    "package": "bslib",
-    "url": "https://github.com/rstudio/bslib",
-    "via": ["bs4Dash", "shiny"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "cachem",
-    "url": "https://github.com/r-lib/cachem",
-    "via": ["bs4Dash", "shiny"],
-    "from": "bs4Dash"
-  },
-  {
     "package": "htmltools",
     "url": "https://github.com/rstudio/htmltools",
     "via": ["bs4Dash"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "htmltools",
-    "url": "https://github.com/rstudio/htmltools",
-    "via": ["bs4Dash", "shiny"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "rmarkdown",
-    "url": "https://github.com/rstudio/rmarkdown",
-    "via": ["bs4Dash", "shiny", "bslib"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "sass",
-    "url": "https://github.com/rstudio/sass",
-    "via": ["bs4Dash", "shiny"],
     "from": "bs4Dash"
   },
   {
     "package": "shiny",
     "url": "https://github.com/rstudio/shiny",
     "via": ["bs4Dash"],
-    "from": "bs4Dash"
-  },
-  {
-    "package": "shinytest",
-    "url": "https://github.com/rstudio/shinytest",
-    "via": ["bs4Dash", "shiny"],
     "from": "bs4Dash"
   },
   {
