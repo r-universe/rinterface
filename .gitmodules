@@ -27,15 +27,3 @@
 	path = tablerDash
 	url = https://github.com/rinterface/tablerdash
 	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-[submodule "shiny"]
-	path = shiny
-	url = https://github.com/rstudio/shiny
-	shallow = true
-[submodule "thematic"]
-	path = thematic
-	url = https://github.com/rstudio/thematic
-	shallow = true
