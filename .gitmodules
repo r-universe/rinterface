@@ -19,6 +19,10 @@
 	path = shinydashboardPlus
 	url = https://github.com/rinterface/shinydashboardplus
 	shallow = true
+[submodule "shinyEffects"]
+	path = shinyEffects
+	url = https://github.com/RinteRface/shinyEffects
+	shallow = true
 [submodule "shinyMobile"]
 	path = shinyMobile
 	url = https://github.com/rinterface/shinymobile
