@@ -1,0 +1,30 @@
+[
+  {
+    "package": "argonDash",
+    "oncran": true
+  },
+  {
+    "package": "argonR",
+    "oncran": true
+  },
+  {
+    "package": "bs4Dash",
+    "oncran": true
+  },
+  {
+    "package": "shinydashboardPlus",
+    "oncran": true
+  },
+  {
+    "package": "shinyEffects",
+    "oncran": false
+  },
+  {
+    "package": "shinyMobile",
+    "oncran": true
+  },
+  {
+    "package": "tablerDash",
+    "oncran": true
+  }
+]
