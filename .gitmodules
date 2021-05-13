@@ -8,33 +8,40 @@
 	url = https://github.com/rinterface/argondash
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "argonR"]
 	path = argonR
 	url = https://github.com/rinterface/argonr
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/rinterface/bs4dash
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "shinydashboardPlus"]
 	path = shinydashboardPlus
 	url = https://github.com/rinterface/shinydashboardplus
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "shinyEffects"]
 	path = shinyEffects
 	url = https://github.com/RinteRface/shinyEffects
 	shallow = true
 	registered = true
+	oncran = false
 [submodule "shinyMobile"]
 	path = shinyMobile
 	url = https://github.com/rinterface/shinymobile
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "tablerDash"]
 	path = tablerDash
 	url = https://github.com/rinterface/tablerdash
 	shallow = true
 	registered = true
+	oncran = true
