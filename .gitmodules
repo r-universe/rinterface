@@ -25,7 +25,7 @@
 	registered = true
 [submodule "shinyEffects"]
 	path = shinyEffects
-	url = https://github.com/RinteRface/shinyEffects
+	url = https://github.com/rinterface/shinyeffects
 	shallow = true
 	registered = true
 [submodule "shinyMobile"]
