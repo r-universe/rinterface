@@ -1,18 +1,6 @@
 [
   {
-    "package": "bs4Dash",
-    "oncran": true
-  },
-  {
-    "package": "shinyMobile",
-    "oncran": true
-  },
-  {
-    "package": "shinyEffects",
-    "oncran": true
-  },
-  {
-    "package": "tablerDash",
+    "package": "argonDash",
     "oncran": true
   },
   {
@@ -20,11 +8,23 @@
     "oncran": true
   },
   {
-    "package": "argonDash",
+    "package": "bs4Dash",
     "oncran": true
   },
   {
     "package": "shinydashboardPlus",
+    "oncran": true
+  },
+  {
+    "package": "shinyEffects",
+    "oncran": true
+  },
+  {
+    "package": "shinyMobile",
+    "oncran": true
+  },
+  {
+    "package": "tablerDash",
     "oncran": true
   }
 ]
