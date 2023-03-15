@@ -1,22 +1,6 @@
 [
   {
-    "package": "argonDash",
-    "oncran": true
-  },
-  {
-    "package": "argonR",
-    "oncran": true
-  },
-  {
     "package": "bs4Dash",
-    "oncran": true
-  },
-  {
-    "package": "shinydashboardPlus",
-    "oncran": true
-  },
-  {
-    "package": "shinyEffects",
     "oncran": true
   },
   {
@@ -24,7 +8,23 @@
     "oncran": true
   },
   {
+    "package": "shinyEffects",
+    "oncran": true
+  },
+  {
     "package": "tablerDash",
+    "oncran": true
+  },
+  {
+    "package": "argonR",
+    "oncran": true
+  },
+  {
+    "package": "argonDash",
+    "oncran": true
+  },
+  {
+    "package": "shinydashboardPlus",
     "oncran": true
   }
 ]
