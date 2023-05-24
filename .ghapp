@@ -5,5 +5,6 @@
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["argonDash", "argonR", "bs4Dash", "charpente", "fullPage", "mobileCharts", "shiny386", "shinybulma", "shinydashboardPlus", "shinyMobile", "tablerDash"]
 }
