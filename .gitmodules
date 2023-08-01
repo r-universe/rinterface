@@ -11,15 +11,15 @@
 [submodule "bs4Dash"]
 	path = bs4Dash
 	url = https://github.com/rinterface/bs4dash
-[submodule "shinydashboardPlus"]
-	path = shinydashboardPlus
-	url = https://github.com/rinterface/shinydashboardplus
 [submodule "shinyEffects"]
 	path = shinyEffects
 	url = https://github.com/rinterface/shinyeffects
 [submodule "shinyMobile"]
 	path = shinyMobile
 	url = https://github.com/rinterface/shinymobile
+[submodule "shinydashboardPlus"]
+	path = shinydashboardPlus
+	url = https://github.com/rinterface/shinydashboardplus
 [submodule "tablerDash"]
 	path = tablerDash
 	url = https://github.com/rinterface/tablerdash
