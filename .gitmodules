@@ -17,6 +17,9 @@
 [submodule "shinyMobile"]
 	path = shinyMobile
 	url = https://github.com/rinterface/shinymobile
+[submodule "shinyNextUI"]
+	path = shinyNextUI
+	url = https://github.com/rinterface/shinynextui
 [submodule "shinydashboardPlus"]
 	path = shinydashboardPlus
 	url = https://github.com/rinterface/shinydashboardplus
